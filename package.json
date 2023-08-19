@@ -1,0 +1,35 @@
+{
+  "type": "module",
+  "name": "@MarketingPipeline/sdasas",
+  "version": "1.0.1",
+  "description": "A JavaScript libsaa",
+  "main": "test.js",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "test": "echo \"No tests specified\" && exit 0",
+    "start": "node test.js"
+  },
+  "keywords": [
+    "javascript",
+    "library",
+    "wikipedia",
+    "events",
+    "dates",
+    "history",
+    "on-this-day",
+    "wtf-wikipedia",
+    "fetch"
+  ],
+  "author": "Jared Van Valkengoed",
+  "license": "MIT",
+  "repository": "github:MarketingPipesdfs",
+"dependencies": {
+  "string-similarity": "^4.0.4"
+},
+  "bugs": {
+    "url": "https://github.com/MarketingPipdssds"
+  },
+  "homepage": "https://github.com/MarketingPipsdfsdesdde"
+}
